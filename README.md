@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-Output
+# Output
 
-![output](./images/01.jpg)
+<img src="./images/01.jpg" alt="output" width="300"/>
 
-![output](./images/02.jpg)
+<img src="./images/02.jpg" alt="output" width="300"/>
